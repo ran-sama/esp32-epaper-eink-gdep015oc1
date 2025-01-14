@@ -1,4 +1,4 @@
-# esp32-udp-wifi-epaper
+# esp32-epaper-eink-gdep015oc1
 Parse and display weather data in 9 individual lines by means of a delimiter and single UDP packets.
 
 (though you can display anything you want without recompiling)
